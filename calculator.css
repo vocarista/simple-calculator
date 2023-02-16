@@ -18,7 +18,7 @@ body{
 #calc{
     display: grid;
     margin: 0 auto;
-    grid-template-columns: 60px 60px 60px 60px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas: 
     "output output output output"
     "AC AC del Div"
