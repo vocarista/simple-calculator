@@ -112,4 +112,7 @@ body{
     body{
         background-image: linear-gradient(#31c1f5, #25f737);
     }
+    #calc{
+        width: 85vw;
+    }
 }
